@@ -32,5 +32,5 @@ int main(){
     Singleton * s2 = Singleton::getInstance();
 
     cout<<(s1 == s2)<<endl;
-
+    
 }
